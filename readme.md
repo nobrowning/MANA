@@ -1,4 +1,4 @@
-# MANA：Exploiting Multi-Aspect Node Association in Heterogeneous Graphs for Link Prediction
+# MANA：Exploiting Associations among Multi-Aspect Node Properties in Heterogeneous Graphs for Link Prediction
 
 
 
